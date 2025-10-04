@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bulk_moneys" data-name="vuesax/bulk/moneys" transform="translate(-108 -316)">
+    <g id="moneys">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(108 316)" fill="none" opacity="0" />
+      <path id="Vector-2" data-name="Vector"
+        d="M17.59,4.4V9.55c0,3.08-1.76,4.4-4.4,4.4H4.4a5.848,5.848,0,0,1-1.28-.13,3.888,3.888,0,0,1-.71-.19C.91,13.07,0,11.77,0,9.55V4.4C0,1.32,1.76,0,4.4,0h8.79c2.24,0,3.85.95,4.28,3.12A7.232,7.232,0,0,1,17.59,4.4Z"
+        transform="translate(109.71 319.52)" fill="#d0d1d4" />
+      <path id="Vector-3" data-name="Vector"
+        d="M17.47,4.28V9.43c0,3.08-1.76,4.4-4.4,4.4H4.28a5.616,5.616,0,0,1-1.99-.32A3.509,3.509,0,0,1,0,10.7a5.848,5.848,0,0,0,1.28.13h8.79c2.64,0,4.4-1.32,4.4-4.4V1.28A6.329,6.329,0,0,0,14.35,0C16.25.4,17.47,1.74,17.47,4.28Z"
+        transform="translate(112.83 322.64)" fill="#8a8e97" />
+      <path id="Vector-4" data-name="Vector"
+        d="M5.28,2.64A2.64,2.64,0,1,1,2.64,0,2.64,2.64,0,0,1,5.28,2.64Z"
+        transform="translate(115.86 323.86)" fill="#8a8e97" />
+      <path id="Vector-5" data-name="Vector"
+        d="M.75,0A.755.755,0,0,0,0,.75v3a.755.755,0,0,0,.75.75.755.755,0,0,0,.75-.75v-3A.749.749,0,0,0,.75,0Z"
+        transform="translate(112.03 324.25)" fill="#8a8e97" />
+      <path id="Vector-6" data-name="Vector"
+        d="M.75,0A.755.755,0,0,0,0,.75v3a.755.755,0,0,0,.75.75.755.755,0,0,0,.75-.75v-3A.749.749,0,0,0,.75,0Z"
+        transform="translate(123.46 324.25)" fill="#8a8e97" />
+    </g>
+  </g>
+</svg>

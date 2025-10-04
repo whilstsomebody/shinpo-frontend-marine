@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22.222" viewBox="0 0 20 22.222">
+  <g id="Group_37594" data-name="Group 37594" transform="translate(-495 -254)">
+    <path id="Vector" d="M20,5.556V16.667c0,3.333-1.667,5.556-5.556,5.556H5.556C1.667,22.222,0,20,0,16.667V5.556C0,2.222,1.667,0,5.556,0h8.889C18.333,0,20,2.222,20,5.556Z" transform="translate(495 254)" fill="#d0d1d4"/>
+    <g id="Group" transform="translate(506.944 255.944)">
+      <path id="Vector-2" data-name="Vector" d="M5.278,6.111H3.056A3.054,3.054,0,0,1,0,3.056V.833A.839.839,0,0,1,.833,0a.839.839,0,0,1,.833.833V3.056A1.389,1.389,0,0,0,3.056,4.444H5.278a.833.833,0,0,1,0,1.667Z" transform="translate(0 0)" fill="#8a8e97"/>
+    </g>
+    <g id="Group-2" data-name="Group" transform="translate(499.722 265.389)">
+      <path id="Vector-3" data-name="Vector" d="M5.278,1.667H.833A.839.839,0,0,1,0,.833.839.839,0,0,1,.833,0H5.278a.839.839,0,0,1,.833.833A.839.839,0,0,1,5.278,1.667Z" transform="translate(0 0)" fill="#8a8e97"/>
+    </g>
+    <g id="Group-3" data-name="Group" transform="translate(499.722 269.833)">
+      <path id="Vector-4" data-name="Vector" d="M9.722,1.667H.833A.839.839,0,0,1,0,.833.839.839,0,0,1,.833,0H9.722a.839.839,0,0,1,.833.833A.839.839,0,0,1,9.722,1.667Z" transform="translate(0 0)" fill="#8a8e97"/>
+    </g>
+  </g>
+</svg>

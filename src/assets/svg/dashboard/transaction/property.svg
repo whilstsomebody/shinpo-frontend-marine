@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="18" cy="18" r="18" fill="#f4f7fe" />
+    <g id="vuesax_bulk_building" data-name="vuesax/bulk/building" transform="translate(-100 -180)">
+        <g id="building" transform="translate(108 188)">
+            <path id="Vector"
+                d="M8.6,4.421V16.344H1.724A1.713,1.713,0,0,1,0,14.652V2.525C0,.384,1.6-.588,3.555.368l3.62,1.79A2.779,2.779,0,0,1,8.6,4.421Z"
+                transform="translate(1.61 1.634)" fill="#8a8e97" opacity="0.4" />
+            <path id="Vector-2" data-name="Vector"
+                d="M3.448,1.226H.613A.617.617,0,0,1,0,.613.617.617,0,0,1,.613,0H3.448a.613.613,0,1,1,0,1.226Z"
+                transform="translate(3.882 6.742)" fill="#8a8e97" />
+            <path id="Vector-3" data-name="Vector"
+                d="M3.448,1.226H.613A.617.617,0,0,1,0,.613.617.617,0,0,1,.613,0H3.448a.613.613,0,1,1,0,1.226Z"
+                transform="translate(3.882 10.01)" fill="#8a8e97" />
+            <path id="Vector-4" data-name="Vector"
+                d="M7.763,3.783V7.42A2.044,2.044,0,0,1,5.72,9.463H0V0L.384.082l3.3.735.392.09,1.667.376a3.18,3.18,0,0,1,1.087.425.008.008,0,0,0,.008.008,1.775,1.775,0,0,1,.237.2,2.586,2.586,0,0,1,.678,1.724C7.755,3.685,7.763,3.734,7.763,3.783Z"
+                transform="translate(10.215 8.515)" fill="#8a8e97" />
+            <path id="Vector-5" data-name="Vector" d="M0,0H19.612V19.612H0Z" fill="none" opacity="0" />
+        </g>
+    </g>
+</svg>
+  

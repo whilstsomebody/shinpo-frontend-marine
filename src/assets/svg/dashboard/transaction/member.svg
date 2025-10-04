@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <g id="Group_37355" data-name="Group 37355" transform="translate(-1620 -1168)">
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="18" cy="18" r="18"
+            transform="translate(1620 1168)" fill="#f4f7fe" />
+        <g id="Menu" transform="translate(1628 1176)">
+            <ellipse id="Ellipse_133" data-name="Ellipse 133" cx="3.5" cy="3" rx="3.5" ry="3"
+                transform="translate(8 3)" fill="#d0d1d4" />
+            <path id="Union"
+                d="M4.75,0A4.75,4.75,0,0,0,0,4.75,1.583,1.583,0,0,0,1.583,6.333h9.5A1.583,1.583,0,0,0,12.666,4.75V3.958A3.958,3.958,0,0,0,8.708,0Z"
+                transform="translate(5.167 10.916)" fill="#d0d1d4" />
+            <path id="Union-2" data-name="Union"
+                d="M3.958,0A3.958,3.958,0,0,0,0,3.958V4.75A1.583,1.583,0,0,0,1.583,6.333h9.5A1.583,1.583,0,0,0,12.666,4.75V3.958A3.958,3.958,0,0,0,8.708,0Z"
+                transform="translate(2 10.916)" fill="#8a8e97" />
+            <circle id="Ellipse_132" data-name="Ellipse 132" cx="3" cy="3" r="3"
+                transform="translate(5 3)" fill="#8a8e97" />
+        </g>
+    </g>
+</svg>

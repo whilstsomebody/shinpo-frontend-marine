@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="vuesax_bulk_receipt-minus" data-name="vuesax/bulk/receipt-minus"
+    transform="translate(-556 -188)">
+    <g id="receipt-minus" transform="translate(556 188)">
+      <path id="Vector" d="M0,0H22V22H0Z" fill="none" opacity="0" />
+      <path id="Vector-2" data-name="Vector"
+        d="M5.5,3.667V5.885A2.2,2.2,0,0,1,3.135,8.25H0V1.843A1.85,1.85,0,0,1,1.852,0,3.662,3.662,0,0,1,5.5,3.667Z"
+        transform="translate(14.667 1.833)" fill="#8a8e97" />
+      <path id="Vector-3" data-name="Vector"
+        d="M0,4.583V17.417a.914.914,0,0,0,1.467.733l1.567-1.173a.924.924,0,0,1,1.21.092L5.766,18.6a.924.924,0,0,0,1.3,0l1.54-1.54A.909.909,0,0,1,9.8,16.977l1.567,1.173a.919.919,0,0,0,1.467-.733V1.833A1.839,1.839,0,0,1,14.667,0h-11C.917,0,0,1.641,0,3.667Z"
+        transform="translate(1.833 1.833)" fill="#d0d1d4" />
+      <g id="Group" transform="translate(5.042 8.479)">
+        <path id="Vector-4" data-name="Vector"
+          d="M5.729,1.375H.688A.693.693,0,0,1,0,.688.693.693,0,0,1,.688,0H5.729a.693.693,0,0,1,.688.688A.693.693,0,0,1,5.729,1.375Z"
+          fill="#8a8e97" />
+      </g>
+    </g>
+  </g>
+</svg>

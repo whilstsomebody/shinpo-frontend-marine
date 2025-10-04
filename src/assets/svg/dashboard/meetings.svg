@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.933" height="18" viewBox="0 0 20.933 18">
+  <g id="Menu" transform="translate(-2 -3)">
+    <circle id="Ellipse_133" data-name="Ellipse 133" cx="4" cy="4" r="4" transform="translate(10 3)" fill="#d0d1d4"/>
+    <path id="Union" d="M6,0A6,6,0,0,0,0,6,2,2,0,0,0,2,8H14a2,2,0,0,0,2-2V5a5,5,0,0,0-5-5Z" transform="translate(6 13)" fill="#d0d1d4"/>
+    <path id="Union-2" data-name="Union" d="M5,0A5,5,0,0,0,0,5V6A2,2,0,0,0,2,8H14a2,2,0,0,0,2-2V5a5,5,0,0,0-5-5Z" transform="translate(2 13)" fill="#8a8e97"/>
+    <circle id="Ellipse_132" data-name="Ellipse 132" cx="4" cy="4" r="4" transform="translate(6 3)" fill="#8a8e97"/>
+    <path id="Vector" d="M3.455,1.455H2.545V.545a.545.545,0,0,0-1.091,0v.909H.545a.545.545,0,1,0,0,1.091h.909v.909a.545.545,0,0,0,1.091,0V2.545h.909a.545.545,0,0,0,0-1.091Z" transform="translate(18.933 8)" fill="#d0d1d4"/>
+  </g>
+</svg>

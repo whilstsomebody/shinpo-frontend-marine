@@ -1,0 +1,13 @@
+<svg id="clipboard-tick" xmlns="http://www.w3.org/2000/svg" width="26.484" height="26.484"
+  viewBox="0 0 26.484 26.484">
+  <path id="Vector"
+    d="M14.291,0H4.933A4.938,4.938,0,0,0,0,4.933V15.317A4.945,4.945,0,0,0,4.933,20.25H14.28a4.938,4.938,0,0,0,4.933-4.933V4.933A4.922,4.922,0,0,0,14.291,0Z"
+    transform="translate(3.631 4.028)" fill="#d0d1d4" opacity="0.4" />
+  <path id="Vector-2" data-name="Vector"
+    d="M7.272,0H2.086A2.082,2.082,0,0,0,0,2.075V3.112A2.072,2.072,0,0,0,2.075,5.187h5.2A2.072,2.072,0,0,0,9.347,3.112V2.075A2.065,2.065,0,0,0,7.272,0Z"
+    transform="translate(8.563 2.207)" fill="#8a8e97" />
+  <path id="Vector-3" data-name="Vector"
+    d="M2.48,6.067A.819.819,0,0,1,1.9,5.824L.24,4.169A.827.827,0,0,1,1.41,3l1.07,1.07L6.309.24a.827.827,0,0,1,1.17,1.17L3.065,5.824A.8.8,0,0,1,2.48,6.067Z"
+    transform="translate(9.449 12.638)" fill="#8a8e97" />
+  <path id="Vector-4" data-name="Vector" d="M0,0H26.484V26.484H0Z" fill="none" opacity="0" />
+</svg>

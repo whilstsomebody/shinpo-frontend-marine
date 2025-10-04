@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="Menu" transform="translate(-3 -3)">
+    <rect id="Rectangle_241" data-name="Rectangle 241" width="8" height="8" rx="3"
+      transform="translate(3 3)" fill="#ecedee" />
+    <rect id="Rectangle_243" data-name="Rectangle 243" width="8" height="8" rx="3"
+      transform="translate(3 13)" fill="#8a8e97" />
+    <rect id="Rectangle_242" data-name="Rectangle 242" width="8" height="8" rx="3"
+      transform="translate(13 3)" fill="#8a8e97" />
+    <rect id="Rectangle_244" data-name="Rectangle 244" width="8" height="8" rx="3"
+      transform="translate(13 13)" fill="#ecedee" />
+  </g>
+</svg>

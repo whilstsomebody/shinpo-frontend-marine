@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_37607" data-name="Group 37607" transform="translate(-239 -540)">
+    <g id="vuesax_bulk_dollar-circle" data-name="vuesax/bulk/dollar-circle"
+      transform="translate(3 -32)">
+      <g id="dollar-circle">
+        <path id="Vector" d="M20,10A10,10,0,1,1,10,0,10,10,0,0,1,20,10Z"
+          transform="translate(238 574)" fill="#d0d1d4" />
+        <path id="Vector-2" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(236 572)"
+          fill="none" opacity="0" />
+        <text id="_" data-name="$€" transform="translate(241 588)" fill="#8a8e97" font-size="10"
+          font-family="SegoeUI-Bold, Segoe UI" font-weight="700" letter-spacing="0.15em">
+          <tspan x="0" y="0">$€</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
